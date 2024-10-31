@@ -1,0 +1,14 @@
+[user]
+	name = "Amartya Bhattacharya"
+	email = amartyacharya@gmail.com
+[github]
+	user = amartya-bhattacharya
+[color]
+	ui = true
+[alias]
+	a = add
+	cm = commit -m
+	s = status
+	p = push
+[push]
+	autoSetupRemote = true
