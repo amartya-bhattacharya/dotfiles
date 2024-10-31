@@ -1,0 +1,54 @@
+brew install fastfetch
+which brew
+whereis brew
+brew
+ls -la
+ls /usr/local/bin
+ls /usr
+ls /usr/local
+echo $PATH
+cd /usr/local/bin
+nano ~/.zshenv
+nano ~/.zshenv
+cd .config/zsh
+nano .zshrc
+whoami
+brew
+cd
+cat ~/.zprofile
+eval $(/opt/homebrew/bin/brew shellenv)
+brew help
+brew install fastfetch
+fastfetch
+fastfetch --gen-config
+cd .config/fastfetch
+nano config.jsonc
+nano config.jsonc
+fastfetch
+brew install btop
+brew install taskell
+cd
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+btop
+nano ~/.wezterm.lua
+btop
+btop
+nano ~/.wezterm.lua
+bto
+btop
+brew
+nano ~/.wezterm.lua
+ls -la /opt/homebrew/bin
+man keychain
+keychain -h
+fastfetch
+brew install yazi
+cd .config/zsh
+nano .zshrc
+source .zshrc
+brew doctor
+brew install ffmpeg

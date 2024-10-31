@@ -1,0 +1,522 @@
+brew install fastfetch
+which brew
+whereis brew
+brew
+ls -la
+ls /usr/local/bin
+ls /usr
+ls /usr/local
+echo $PATH
+cd /usr/local/bin
+nano ~/.zshenv
+nano ~/.zshenv
+cd .config/zsh
+nano .zshrc
+whoami
+brew
+cd
+cat ~/.zprofile
+eval $(/opt/homebrew/bin/brew shellenv)
+brew help
+brew install fastfetch
+fastfetch
+fastfetch --gen-config
+cd .config/fastfetch
+nano config.jsonc
+nano config.jsonc
+fastfetch
+brew install btop
+brew install taskell
+cd
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+nano ~/.wezterm.lua
+btop
+nano ~/.wezterm.lua
+btop
+btop
+nano ~/.wezterm.lua
+bto
+btop
+brew
+nano ~/.wezterm.lua
+ls -la /opt/homebrew/bin
+man keychain
+keychain -h
+fastfetch
+brew install yazi
+cd .config/zsh
+nano .zshrc
+source .zshrc
+brew doctor
+brew install ffmpeg
+cat ~/.gitconfig
+cd
+ls
+cd CLionProjects
+ls
+cd a
+cd ascii_anime
+ls
+cmake --build cmake-build-debug
+ls cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_image.jpg
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+python3
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+which cmake
+brew install cmake
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/akira_1440p30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_opening.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_FHD60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/gits4k30.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/bebop_4k60.mp4
+git status
+git add CMakeLists.txt
+git commit -m "dropped pkgconfig req"
+git add src/main.c
+git commit -m "improving video performance"
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii test_vids/opm1080p60\[H.264\].mp4
+./cmake-build-debug/anime_to_ascii test_vids/opm1080p60\[H.264\].mp4
+./cmake-build-debug/anime_to_ascii test_vids/opm1080p60\[H.264\].mp4
+./cmake-build-debug/anime_to_ascii test_vids/opm1440p60.m4v
+./cmake-build-debug/anime_to_ascii test_vids/opm1440p60.mpg
+./cmake-build-debug/anime_to_ascii test_vids/jjk_opening.mp4
+git status
+git add README.md
+git commit -m "update readme"
+ls
+ls test_vids
+git rm test_vids/jjk_opening.mp4
+cd test_V
+cd test_vids
+git add akira_1440p30.mp4 bebop_FHD60.mp4 gits4k30.mp4
+git commit -m "adding more test videos"
+git push
+nano ~/.gitconfig
+git push
+source ~/.gitconfig
+nano ~/.gitconfig
+ssh -T git@github.com
+git rm akira_1440p30.mp4
+git rm gits4k30.mp4
+git status
+git log
+git reset --hard 942cdf4c0f7e1b39a401b7b5a6d4446cdf18ef80
+git status
+ls
+git log
+git rm jjk_opening.mp4
+git status
+git remote -v
+git remote set-url origin git@github.com:amartya-bhattacharya/ascii_anime.git
+nano ~/.gitconfig
+source ~/.gitconfig
+nano ~/.gitconfig
+source ~/.gitconfig
+nano ~/.gitconfig
+source ~/.gitconfig
+nano ~/.gitconfig
+git config --global --edit
+git remote -v
+git cm "updating test vids"
+git p
+git log
+ollama run reefer/erplegend
+cd ~/CLionProjects/ascii_anime
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+cmake --build cmake-build-debug
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+./cmake-build-debug/anime_to_ascii ~/Downloads/IMG_4244.JPG
+git status
+python3
+python3 -v
+python3 --version
+python3
+y
+yazi
+ls
+cd CLionProjects
+cd ascii_anime
+ls
+./cmake-build-debug/anime_to_ascii test_vids/dragonball_FHD30.mp4
+cd CLionProjects
+cd ./ascii_anime
+ls
+ls test_vids
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+cmake --build cmake-build-debug
+ffmpeg -v
+ffmpeg --version
+ffmpeg -version
+cmake --build cmake-build-debug
+npm run dev
+npm run dev
+npm install vite --save-dev
+npm run dev
+which gh
+brew install gh
+gh repo clone amartya-bhattacharya/LumettaOS
+gh auth login
+gh auth login
+ls
+cd Developer
+ls
+ls -la
+cd Developer
+ls
+gh repo clone amartya-bhattacharya/LumettaOS
+cd LumettaOS
+ls -l
+git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch README.md" HEAD
+git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch README.md" HEAD
+ls
+git log
+ls
+touch README.md
+nano README.md
+open .
+cat README.md
+git log
+git s
+git status
+git add README.md
+git commit -m "added readme"
+git push --force
+nano riv_interview.txt
+ls
+which findsfml.cmake
+which FindSFML.cmake
+brew install sfml
+brew install postgresql
+brew upgrade
+lsof -i :5000
+lsof -i :5000
+lsof -i :5000
+git log
+git pull
+git log
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2-pool==1.2
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/"PyCharm Professional Edition.app"/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2-pool==1.2
+pip install --upgrade pip
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/"PyCharm Professional Edition.app"/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2-pool==1.2
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/"PyCharm Professional Edition.app"/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2==2.9.10
+pip install psycopg==3.1.8
+which psycopg
+which pg_config
+which pg_config
+which psycopg
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2-pool==1.2
+source /Users/amartya/PycharmProjects/TicketScraper/.venv/bin/activate\
+/Users/amartya/PycharmProjects/TicketScraper/.venv/bin/python /Users/amartya/Applications/"PyCharm Professional Edition.app"/Contents/plugins/python-ce/helpers/packaging_tool.py install psycopg2-pool==1.2
+tail -f logfile
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "concert"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "concert"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "coldplay"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "t"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "festival"}'
+curl -X POST http://localhost:5000/events \\
+-H "Content-Type: application/json" \\
+-d '{"eventurl": "https://www.stubhub.com/taylor-swift-miami-tickets-10-20-2024/event/152129109/"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X POST http://localhost:5000/events \\
+-H "Content-Type: application/json" \\
+-d '{"eventurl": "https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets/E-152129109?quantity=2"}'
+curl -X POST http://localhost:5000/events \\
+-H "Content-Type: application/json" \\
+-d '{"eventurl": "https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets/E-152129109"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X POST http://localhost:5000/events \\
+-H "Content-Type: application/json" \\
+-d '{"eventurl": "https://www.stubhub.com/taylor-swift-miami-tickets-10-20-2024/event/152129109/"}'
+curl -X POST http://localhost:5000/events \\
+-H "Content-Type: application/json" \\
+-d '{"eventurl": "https://www.stubhub.com/taylor-swift-miami-tickets-10-20-2024/event/152129109/"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X POST http://localhost:5000/analytics \\
+-H "Content-Type: application/json" \\
+-d '{"query": "taylor"}'
+curl -X GET http://localhost:5000/analytics/8
+curl -X GET http://localhost:5000/analytics/8
+ollama
+ollama run hf.co/NousResearch/Hermes-3-Llama-3.1-8B-GGUF:Q8_0
+cd '/Users/amartya/Documents/Code/Custom Models'
+ls
+cat Llama-3-Modelfile
+nano my_hermes.modelfile
+ollama -h
+ollama create
+ollama create my_hermes --file my_hermes.modelfile
+ollama run my_hermes
+nano my_hermes.modelfile
+textedit my_hermes.modelfile
+hermes list
+ollama list
+ollama rm my_hermes.modelfile
+ollama rm my_hermes:latest
+ollama create my_hermes --file my_hermes.modelfile
+ls
+ollama create my_hermes --file my_hermes.modelfile
+ollama list
+ollama run hf.co/NousResearch/Hermes-3-Llama-3.1-8B-GGUF:Q8_0
+ollama create my_hermes --file my_hermes.modelfile
+ollama run my_hermes.modelfile
+ollama run my_hermes
+ollama create my_hermes --file my_hermes.modelfile
+ollama list
+ollama my_hermes:latest
+ollama run my_hermes:latest
+ollama run llama3.2:1b
+ollama run my_hermes:latest
+ollama create my_hermes --file my_hermes.modelfile
+ollama run my_hermes:latest
+ollama create my_hermes --file my_hermes.modelfile
+ollama run my_hermes:latest
+ollama list
+ollama rm hf.co/NousResearch/Hermes-3-Llama-3.1-8B-GGUF:Q8_0
+ollama rm my_hermes
+ollama rm llama3.2
+ollama rm llama3.2:1g
+ollama rm llama3.2:1b
+ollama list
+brew uninstall ollama
+brew rm ollama
+which ollama
+brew remove ollama
+man ollama
+ollama -h
+ollama list
+ollama rm reefer/erplegend:latest
+ollama list
+ollama show hf.co/NousResearch/Hermes-3-Llama-3.1-8B-GGUF:Q8_0 --modelfile
+btop
+fastfetch
